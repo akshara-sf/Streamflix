@@ -1,0 +1,319 @@
+[
+  {
+    "id": 1,
+    "title": "Stranger Things",
+    "year": 2016,
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "type": "TV Show",
+    "description": "A group of kids uncovering secret experiments, supernatural forces, and one strange girl.",
+    "poster": "https://i.pinimg.com/736x/96/d2/d8/96d2d8c4f55b0e8fe1c21c387122eb1c.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Action",
+    "rating": 8.8,
+    "type": "Movie",
+    "description": "A skilled thief leads a team into the world of dreams to steal secrets from subconscious minds.",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDEPNbYgVP-VUYygi5_GuNm_JNlcL_VfczHFF7OEXeESBsgETsuDVAqwLeoXP469Hi_ik&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "title": "Breaking Bad",
+    "year": 2008,
+    "genre": "Crime",
+    "rating": 9.5,
+    "type": "TV Show",
+    "description": "A high school chemistry teacher turned meth producer descends into a dangerous criminal underworld.",
+    "poster": "https://rukminim2.flixcart.com/image/750/900/kdga1zk0/poster/2/p/i/large-breakingbad04-breaking-bad-poster-breaking-bad-series-original-imafuc2fvfjyackz.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 4,
+    "title": "The Witcher",
+    "year": 2019,
+    "genre": "Fantasy",
+    "rating": 8.1,
+    "type": "TV Show",
+    "description": "Geralt of Rivia, a monster hunter, struggles to find his place in a world where people are often more wicked than beasts.",
+    "poster": "https://m.media-amazon.com/images/I/91KkWf50SoL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "rating": 8.6,
+    "type": "Movie",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "poster": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SL1500_.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Money Heist",
+    "year": 2017,
+    "genre": "Thriller",
+    "rating": 8.2,
+    "type": "TV Show",
+    "description": "A criminal mastermind plans the biggest heist in history: to print billions of euros in the Royal Mint of Spain.",
+    "poster": "https://m.media-amazon.com/images/I/71QKqGokUrL.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Dark",
+    "year": 2017,
+    "genre": "Mystery",
+    "rating": 8.8,
+    "type": "TV Show",
+    "description": "A time-travel conspiracy affects four families in a small German town.",
+    "poster": "https://rukminim3.flixcart.com/image/850/1000/kz4gh3k0/poster/j/s/c/medium-dark-tv-series-matte-finish-poster-posterpoint9403-original-imagb785huquwedz.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 8,
+    "title": "Wednesday",
+    "year": 2022,
+    "genre": "Comedy",
+    "rating": 8.2,
+    "type": "TV Show",
+    "description": "Follows Wednesday Addams’ years as a student, where she attempts to master her psychic ability and solve mysteries.",
+    "poster": "https://posterwa.com/cdn/shop/products/WEDNESDAY4.jpg?v=1682618808"
+  },
+  {
+    "id": 9,
+    "title": "Avatar: The Way of Water",
+    "year": 2022,
+    "genre": "Adventure",
+    "rating": 7.6,
+    "type": "Movie",
+    "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora.",
+    "poster": "https://m.media-amazon.com/images/I/91vwVHABnZL.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Loki",
+    "year": 2021,
+    "genre": "Fantasy",
+    "rating": 8.3,
+    "type": "TV Show",
+    "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new timeline.",
+    "poster": "https://i.pinimg.com/736x/f3/20/3a/f3203aa86f05b4eaa51175fb4c537add.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Black Mirror",
+    "genre": "Sci-Fi",
+    "type": "TV Show",
+    "poster": "https://i.redd.it/bg1hqtnr1x301.jpg",
+    "description": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations backfire.",
+    "rating": 8.8
+  },
+  {
+    "id": 12,
+    "title": "Brooklyn Nine-Nine",
+    "genre": "Comedy",
+    "type": "TV Show",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzBiODQxZTUtNjc0MC00Yzc1LThmYTMtN2YwYTU3NjgxMmI4XkEyXkFqcGc@._V1_.jpg",
+    "description": "The hilarious detectives of the 99th precinct solve crimes with humor and heart.",
+    "rating": 8.4
+  },
+   {
+    "id": 13,
+    "title": "The Witcher",
+    "genre": "Fantasy",
+    "type": "Web Series",
+    "poster": "https://m.media-amazon.com/images/I/91MZ6THo-8L._AC_UF894,1000_QL80_.jpg",
+    "description": "A mutated monster-hunter struggles to find his place in a world where people often prove more wicked than beasts.",
+    "rating": 8.3
+  },
+  {
+  "id": 14,
+  "title": "The Mandalorian",
+  "genre": "Sci-Fi",
+  "type": "Web Series",
+  "poster": "https://m.media-amazon.com/images/I/518cyoMPU8L._AC_UF894,1000_QL80_.jpg",
+  "description": "A lone bounty hunter navigates the outer reaches of the galaxy far from the authority of the New Republic.",
+  "rating": 8.7
+},
+{
+  "id": 15,
+  "title": "Extraction",
+  "genre": "Action",
+  "type": "Movie",
+  "poster": "https://m.media-amazon.com/images/I/71ntZpru-4L.jpg",
+  "description": "A black-market mercenary embarks on a deadly mission to rescue the kidnapped son of an imprisoned crime lord.",
+  "rating": 7.2
+},
+{
+  "id": 16,
+  "title": "John Wick",
+  "genre": "Action",
+  "type": "Movie",
+  "poster": "https://http2.mlstatic.com/D_NQ_NP_940113-MLA47971014330_102021-O.webp",
+  "description": "A legendary assassin comes out of retirement to take revenge on those who wronged him.",
+  "rating": 7.4
+},
+{
+  "id": 17,
+  "title": "Peaky Blinders",
+  "genre": "Crime",
+  "type": "TV Show",
+  "poster": "https://www.tallengestore.com/cdn/shop/products/PeakyBlinders-GillianMurphy-NetflixTVShow-ArtPoster_edef67a8-8251-49a1-8359-c0d902a0234a.jpg?v=1619864526",
+  "description": "Tommy Shelby leads a gang in post-WWI Birmingham, navigating power, politics, and betrayal.",
+  "rating": 8.8
+},
+{
+  "id": 18,
+  "title": "Sherlock",
+  "genre": "Crime",
+  "type": "TV Show",
+  "poster": "https://rukminim2.flixcart.com/image/850/1000/l2tcfbk0/poster/d/g/l/small-poster-sherlock-whatson-sla1189-wall-poster-13x19-inches-original-imae78zuqpezcsss.jpeg?q=90&crop=false",
+  "description": "Modern-day Sherlock Holmes solves mysteries with his partner Dr. Watson in London.",
+  "rating": 9.1
+},
+{
+  "id": 19,
+  "title": "Enola Holmes",
+  "genre": "Mystery",
+  "type": "Movie",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTRlYmI1NTMtYTVkYi00MjJkLWE3ZGItOThkYTdhNzBhMThhXkEyXkFqcGc@._V1_.jpg",
+  "description": "The teenage sister of Sherlock Holmes uncovers a conspiracy while searching for her missing mother.",
+  "rating": 6.6
+},
+{
+  "id": 20,
+  "title": "Jumanji: Welcome to the Jungle",
+  "genre": "Adventure",
+  "type": "Movie",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_.jpg",
+  "description": "Four teens are sucked into a magical video game and must play to survive.",
+  "rating": 6.9
+},
+{
+  "id": 21,
+  "title": "Outer Banks",
+  "genre": "Adventure",
+  "type": "Web Series",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2FmYmJiYTQtYmJhZC00ZTIxLTk3OTAtNzc3NDk0NGMxYTdmXkEyXkFqcGc@._V1_.jpg",
+  "description": "A group of teens stumble upon a long-buried secret and hunt for treasure in the Outer Banks of North Carolina.",
+  "rating": 7.6
+},
+{
+  "id": 22,
+  "title": "The Office",
+  "genre": "Comedy",
+  "type": "TV Show",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_.jpg",
+  "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes and awkward moments.",
+  "rating": 9.0
+},
+{
+  "id": 23,
+  "title": "Sex Education",
+  "genre": "Comedy",
+  "type": "Web Series",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTE0MjQ1NDU3OV5BMl5BanBnXkFtZTgwNTI4MTgwNzM@._V1_.jpg",
+  "description": "An awkward teen and his mother, a sex therapist, start an underground sex therapy clinic at school.",
+  "rating": 8.3
+},
+{
+  "id": 24,
+  "title": "Cargo",
+  "genre": "Sci-Fi",
+  "type": "Movie",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTE2MTg0NWQtNDgxZS00NWUxLWEyMzYtNDNjMzQwNzVhMGZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "A spaceship acts as a post-death transition station for souls, blending mythology with sci-fi.",
+  "rating": 6.2
+},
+{
+  "id": 25,
+  "title": "War",
+  "genre": "Action",
+  "type": "Movie",
+  "poster": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/a1d95586386965.5d97886ac225d.jpg",
+  "description": "An Indian soldier goes rogue, and his protégé is sent to track him down.",
+  "rating": 6.5
+},
+{
+  "id": 26,
+  "title": "RRR",
+  "genre": "Action",
+  "type": "Movie",
+  "poster": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/c7d5e4140074961.623b147c53ca8.jpg",
+  "description": "Two revolutionaries fight against British colonialists in a fictional retelling of Indian history.",
+  "rating": 8.0
+},
+{
+  "id": 27,
+  "title": "Sacred Games",
+  "genre": "Crime",
+  "type": "Web Series",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjA4NzJlOGQtZmQzMy00Mjc0LWE2YzEtZjBlY2YyOGMwYmNkXkEyXkFqcGc@._V1_.jpg",
+  "description": "A troubled Mumbai cop uncovers a deeper conspiracy after a gangster leaves cryptic clues.",
+  "rating": 8.5
+},
+{
+  "id": 28,
+  "title": "Delhi Crime",
+  "genre": "Crime",
+  "type": "Web Series",
+  "poster": "https://images.justwatch.com/poster/293148205/s718/season-1.jpg",
+  "description": "Based on true events, Delhi Police investigate the horrific 2012 gang rape case.",
+  "rating": 8.4
+},
+{
+  "id": 29,
+  "title": "Raat Akeli Hai",
+  "genre": "Mystery",
+  "type": "Movie",
+  "poster": "https://i.pinimg.com/736x/c8/c7/80/c8c78061e12aee2fe917eea304b17274.jpg",
+  "description": "A small-town cop investigates the murder of a wealthy family's patriarch on his wedding night.",
+  "rating": 7.2
+},
+{
+  "id": 30,
+  "title": "Tumbbad",
+  "genre": "Adventure",
+  "type": "Movie",
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeRFGqlwwhngyTtuCGiF6Be1EgRIIEsAtjgw&s",
+  "description": "Set in 1918, a man seeks hidden treasure in a cursed village rooted in mythology.",
+  "rating": 8.2
+},
+{
+  "id": 31,
+  "title": "Skyfire",
+  "genre": "Adventure",
+  "type": "Web Series",
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2MyYmNmNDktNDE2Yi00MmE5LWFjZjAtMTMxNGQwYzNkZTFjXkEyXkFqcGc@._V1_.jpg",
+  "description": "Unusual weather events lead a journalist and scientist to uncover a conspiracy.",
+  "rating": 6.0
+},
+{
+  "id": 32,
+  "title": "Drishyam",
+  "genre": "Thriller",
+  "type": "Movie",
+  "poster": "https://m.media-amazon.com/images/I/714kDfwueCL._UF1000,1000_QL80_.jpg",
+  "description": "A man covers up a crime to protect his family, leading to a tense cat-and-mouse game with the police.",
+  "rating": 8.2
+},
+{
+  "id": 33,
+  "title": "Gone Girl",
+  "genre": "Thriller",
+  "type": "Movie",
+  "poster": "https://m.media-amazon.com/images/I/71NV0obX14L._UF1000,1000_QL80_.jpg",
+  "description": "A husband becomes the prime suspect when his wife goes missing, but things aren’t what they seem.",
+  "rating": 8.1
+},
+{
+  "id": 34,
+  "title": "Game of Thrones",
+  "genre": "Fantasy",
+  "type": "TV Show",
+  "poster": "https://images-cdn.ubuy.co.in/633ff990a08d2f07b615ba67-pyramid-america-game-of-thrones-daenerys.jpg",
+  "description": "Noble families wage war for control of the Seven Kingdoms of Westeros in this epic fantasy saga.",
+  "rating": 9.3
+}
+]
+
