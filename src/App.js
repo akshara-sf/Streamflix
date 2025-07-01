@@ -41,7 +41,7 @@ const [featuredMovies, setFeaturedMovies] = useState(getRandomMovies(4));
 
       <HeroBanner featuredMovies={featuredMovies} />
 
-      {/* 🔍 Live Search Preview */}
+      {/* Live Search */}
       {showSearchPreview && (
         <div className="search-preview">
           {moviesData
@@ -73,7 +73,7 @@ const [featuredMovies, setFeaturedMovies] = useState(getRandomMovies(4));
         </div>
       )}
 
-      {/* 🎯 Genre Filter */}
+      {/* Genre Filter */}
       <div className="genre-filter-wrapper">
         <div className="genre-filter">
   <button
@@ -94,7 +94,7 @@ const [featuredMovies, setFeaturedMovies] = useState(getRandomMovies(4));
   ))}
 </div> </div>
 
-      {/* 🎬 Carousels */}
+      {/* Carousels */}
       <div className="carousel">
         {genres
           .filter((genre) => selectedGenre === "All" || genre === selectedGenre)

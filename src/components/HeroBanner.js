@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./HeroBanner.css"; // ✅ make sure this import is there!
+import "./HeroBanner.css";
 
 const HeroBanner = ({ featuredMovies }) => {
   const [currentIndex, setCurrentIndex] = useState(0);

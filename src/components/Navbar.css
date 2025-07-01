@@ -1,5 +1,3 @@
-/* 🌈 Responsive Neon Navbar */
-
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -71,7 +69,7 @@
   cursor: pointer;
 }
 
-/* 💡 Responsive Layout Fix */
+/* Responsiveness */
 @media (max-width: 768px) {
   .navbar {
     flex-direction: column;
@@ -94,7 +92,6 @@
     padding: 0 10px;
   }
 }
-/* Existing styles stay as is... */
 
 @media (max-width: 768px) {
   .navbar {

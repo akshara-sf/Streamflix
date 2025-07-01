@@ -1,4 +1,3 @@
-/* Reset + Base */
 * {
   margin: 0;
   padding: 0;
@@ -10,7 +9,7 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
-/* Scrollbar Hidden */
+/* Scrollbar */
 .hide-scrollbar::-webkit-scrollbar {
   display: none;
 }
@@ -183,7 +182,7 @@ footer {
   border-top: 1px solid #333;
 }
 
-/* Responsive */
+/* Responsiveness */
 @media screen and (max-width: 768px) {
   .modal-content {
     grid-template-columns: 1fr;
@@ -211,7 +210,7 @@ footer {
 }
 
 .genre-filter::-webkit-scrollbar {
-  display: none; /* Chrome, Safari */
+  display: none; /* Chrome & Safari */
 }
 
 .genre-filter button {
@@ -238,7 +237,7 @@ footer {
   transform: scale(1.05);
 }
 
-/* Mobile Fixes */
+/*Mobile*/
 @media (max-width: 768px) {
   .genre-filter {
     flex-wrap: nowrap;
@@ -323,7 +322,7 @@ footer {
   text-align: center;
   margin-top: 10px;
 }
-/* 🌟 Custom Scrollbar for Streamflix */
+/* scrollbar */
 
 ::-webkit-scrollbar {
   width: 10px;
@@ -345,7 +344,7 @@ footer {
   background: linear-gradient(145deg, #ff6fa9, #b07aff);
 }
 
-/* Firefox support */
+/* Firefox browser */
 * {
   scrollbar-width: thin;
   scrollbar-color: #ff2b75 #1a1a2e;

@@ -75,7 +75,7 @@ hr {
   margin-bottom: 20px;
 }
 
-/* Mobile View */
+/* Mobile */
 @media (max-width: 768px) {
   .footer-sections {
     flex-direction: column;
