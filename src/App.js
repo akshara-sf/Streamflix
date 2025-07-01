@@ -27,7 +27,7 @@ const getRandomMovies = (count) => {
   return shuffled.slice(0, count);
 };
 
-const [featuredMovies, setFeaturedMovies] = useState(getRandomMovies(4));
+const [featuredMovies] = useState(getRandomMovies(4));
 
   return (
     <div>
